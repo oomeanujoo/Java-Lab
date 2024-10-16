@@ -1,6 +1,6 @@
-package com.example.app; // Add this line to specify the correct package
+package com.example.app; // Specifies the correct package
 
-import com.example.app.service.UserService; // Use the full package path for the import
+import com.example.app.service.UserService; // Full package path for import
 
 public class Main {
     public static void main(String[] args) {

@@ -3,9 +3,16 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch Main",
+            "name": "Main",
             "request": "launch",
             "mainClass": "com.example.app.Main",
+            "projectName": "java-lab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.example.app",
             "classPaths": [
                 "${workspaceFolder}/target/classes",
                 "C:\\Users\\DELL\\.m2\\repository\\org\\postgresql\\postgresql\\42.7.3\\postgresql-42.7.3.jar"
