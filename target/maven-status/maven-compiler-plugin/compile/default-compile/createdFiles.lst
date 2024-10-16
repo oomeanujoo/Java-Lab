@@ -1,0 +1,5 @@
+com\example\app\database\DatabaseConnection.class
+com\example\app\Main.class
+com\example\app\model\User.class
+com\example\app\service\UserService.class
+com\example\app\repository\UserRepository.class

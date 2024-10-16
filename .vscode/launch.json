@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.example.app.Main",
+            "classPaths": [
+                "${workspaceFolder}/target/classes",
+                "C:\\Users\\DELL\\.m2\\repository\\org\\postgresql\\postgresql\\42.7.3\\postgresql-42.7.3.jar"
+            ]
+        }
+    ]
+}
