@@ -3,8 +3,8 @@ package com.example.app.model; // Update this line
 
 public class User {
     private long id;           // Assuming id is of type long
-    private String username;   // Username
-    private String email;      // User email
+    private final String username;   // Username
+    private final String email;      // User email
 
     // Constructor
     public User(long id, String username, String email) {
